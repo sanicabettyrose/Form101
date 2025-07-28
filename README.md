@@ -1,1 +1,1 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hollywoodreporter.com%2Flifestyle%2Flifestyle-news%2Fseventeen-mingyu-calvin-klein-shirtless-2025-campaign-1236145556%2F&psig=AOvVaw1HQNuzd-FPKHT635ToTuyM&ust=1753780718271000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjxmrec344DFQAAAAAdAAAAABAE.jpg" alt="Mingyu">
+
