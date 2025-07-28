@@ -32,7 +32,6 @@
     <br>
         <label for="cellphone number">Cellphone Number</label>
         <input type="text" id="cellphone number" name="cellphone number">
-    <br>
     <input type="submit">      
     </form>
 </body>
