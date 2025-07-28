@@ -1,1 +1,1 @@
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnolae.eu%2Fblogs%2Fkunstler%2Fmingyu-seventeen-profil&psig=AOvVaw17yabXw1yvqs46Z6F-_uq0&ust=1753780405148000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNijlqOb344DFQAAAAAdAAAAABAE" alt="Mingyu">
