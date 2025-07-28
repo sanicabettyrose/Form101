@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial=width"
     <title>Form101</title>
+</head>
 <body>
     <h1 align="center">Kim Mingyu member of a kpop group and a rapper and singer in south korea</h1>
     <form>
@@ -21,7 +22,7 @@
 
         <label for="e-malladd">E-mailadd:</label>
         <input type="e-mailadd" id="e-mailad" name="e-mailadd">
-<br>
+    <br>
         <label for="hobbies">Hobbies:</label>
         <input type="checkbox"> <label for="music">Music</label>
         <input type="checkbox"> <label for="cooking">Cooking</label>
