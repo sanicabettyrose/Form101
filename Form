@@ -7,7 +7,6 @@
 </head>
 <body>
     <h1 align="center">Kim Mingyu member of a kpop group and a rapper and singer in south korea</h1>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnolae.eu%2Fblogs%2Fkunstler%2Fmingyu-seventeen-profil&psig=AOvVaw17yabXw1yvqs46Z6F-_uq0&ust=1753780405148000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNijlqOb344DFQAAAAAdAAAAABAE" alt="Kim Mingyu" width="200" height="200">
     <form>
         <label for="name">Name:</label><br>
         <input type="text" id="required surename"> <label>Age:</label>
